@@ -130,7 +130,7 @@ The Tableau workbook uses a packaged Hyper data source, so the dashboard can be 
 
 The **Summary** dashboard provides an executive-level view of the organization's workforce.
 
-![HR Summary Dashboard](HR Summary.png)
+![HR Summary Dashboard](HR%20Summary.png)
 
 ### Key KPI Cards
 
