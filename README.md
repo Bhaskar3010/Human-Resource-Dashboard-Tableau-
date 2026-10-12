@@ -130,7 +130,7 @@ The Tableau workbook uses a packaged Hyper data source, so the dashboard can be 
 
 The **Summary** dashboard provides an executive-level view of the organization's workforce.
 
-![HR Summary Dashboard](HR%20%20Summary.png)
+![HR Summary Dashboard](images/HR Summary.png)
 
 ### Key KPI Cards
 
@@ -203,7 +203,7 @@ Maps employee distribution across U.S. states and distinguishes between:
 
 The **Details** dashboard provides an employee-level view of the HR dataset.
 
-![HR Details Dashboard](HR%20%20Details.png)
+![HR Details Dashboard](images/HR Details.png)
 
 The employee table provides grouped analytical sections for:
 
@@ -556,11 +556,11 @@ This project demonstrates my ability to:
 
 ### HR Summary
 
-![HR Summary](HR_Summary.png)
+![HR Summary](images/HR Summary.png)
 
 ### HR Details
 
-![HR Details](HR_Details.png)
+![HR Details](images/HR Details.png)
 
 ---
 
