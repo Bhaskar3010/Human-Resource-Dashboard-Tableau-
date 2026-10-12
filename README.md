@@ -556,11 +556,11 @@ This project demonstrates my ability to:
 
 ### HR Summary
 
-![HR Summary](HR%20%20Summary.png)
+![HR Summary](HR_Summary.png)
 
 ### HR Details
 
-![HR Details](HR%20%20Details.png)
+![HR Details](HR_Details.png)
 
 ---
 
