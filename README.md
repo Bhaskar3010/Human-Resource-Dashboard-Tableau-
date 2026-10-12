@@ -203,7 +203,7 @@ Maps employee distribution across U.S. states and distinguishes between:
 
 The **Details** dashboard provides an employee-level view of the HR dataset.
 
-![HR Details Dashboard](HR Details.png)
+![HR Details Dashboard](HR%20Details)
 
 The employee table provides grouped analytical sections for:
 
@@ -556,11 +556,11 @@ This project demonstrates my ability to:
 
 ### HR Summary
 
-![HR Summary](HR Summary.png)
+![HR Summary](HR%20Summary.png)
 
 ### HR Details
 
-![HR Details](HR Details.png)
+![HR Details](HR%20Details.png)
 
 ---
 
